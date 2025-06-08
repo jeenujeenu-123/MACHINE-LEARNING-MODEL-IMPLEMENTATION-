@@ -1,11 +1,18 @@
 # Machine Learning Model Implementation
 
 ## Developer Information
-**Name**: Shaik Burujula Jeevanbi 
+
+**Name**: Shaik Burujula Jeevanbi
+
 **Company**: CODTECH IT SOLUTIONS  
+
 **ID**: CTO6DL935 
-**Domain**: Python Programming  
-**Duration**: may 5th,2025 to june 20th,2025 
+
+**Domain**: Python Programming 
+
+**Duration**: may 5th,2025 to june 20th,2025 [6 weeks]
+
+**Mentor**:Neela Santhosh
 
 ---
 
@@ -77,14 +84,10 @@ The code below demonstrates how to build and evaluate a machine learning model f
 #### Example Output:
 
 ![Image1](image1.png)
+
 ![Image2](image2.png)
+
 ![Image3](image3.png)
+
 ![Image4](image4.png)
-
-## Contact
-For any questions or feedback, feel free to reach out to:
-
-**Shaik Burujula Jeevanbi**  
-**Company**: CODTECH IT SOLUTIONS  
-**Email**: [tommyjaan1@gmail.com](mailto:tommyjaan1@gmail.com)
 
