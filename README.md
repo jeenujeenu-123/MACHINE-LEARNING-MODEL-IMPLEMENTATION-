@@ -1,10 +1,8 @@
 # Machine Learning Model Implementation
 
-## Developer Information
+**Company**: CODTECH IT SOLUTIONS  
 
 **Name**: Shaik Burujula Jeevanbi
-
-**Company**: CODTECH IT SOLUTIONS  
 
 **ID**: CTO6DL935 
 
